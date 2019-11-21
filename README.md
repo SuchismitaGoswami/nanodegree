@@ -18,4 +18,5 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 - Boyd and Vandenberghe’s course on Convex optimization from Stanford.
 - Linear Algebra — Foundations to Frontiers on edX.
 - Udacity’s Introduction to Statistics.
+- 3Blue1Brown: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
