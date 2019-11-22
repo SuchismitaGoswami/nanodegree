@@ -20,3 +20,5 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 - Udacity’s Introduction to Statistics.
 - 3Blue1Brown: https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
+## Some online MOOCs and materials for studying Machine Learning are:
+A quick FREE course of AI https://course.elementsofai.com
