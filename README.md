@@ -22,9 +22,7 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 - Math Tutorial: https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/channels
 
 ## Some online MOOCs and materials for studying Machine Learning are:
-A quick FREE course of AI https://course.elementsofai.com
-
-Numpy Library : https://jakevdp.github.io/PythonDataScienceHandbook/
-Machine Learning Resource: 
-https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
-Neural Network: https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw
+- A quick FREE course of AI https://course.elementsofai.com
+- Numpy Library : https://jakevdp.github.io/PythonDataScienceHandbook/
+- Machine Learning Resource:  https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
+- Neural Network: https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw
