@@ -26,3 +26,4 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 - Numpy Library : https://jakevdp.github.io/PythonDataScienceHandbook/
 - Machine Learning Resource:  https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
 - Neural Network: https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw
+- Data Science : https://towardsdatascience.com/
