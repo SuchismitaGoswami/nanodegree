@@ -30,3 +30,5 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 - Logistic Gradient Descent : https://www.youtube.com/watch?v=z_xiwjEdAC4
 - Perceptron Algorithm :https://www.youtube.com/watch?v=jbluHIgBmBo&feature=youtu.be
 - Dropout Algorithm : https://www.youtube.com/watch?v=ARq74QuavAo , https://www.youtube.com/watch?v=XmLYl17DbbA [***************]
+## SOME BOOK's LINKS
+- Pytorch : https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
