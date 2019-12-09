@@ -33,3 +33,7 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 - Softmax VS Sigmoid : https://medium.com/aidevnepal/for-sigmoid-funcion-f7a5da78fec2
 ## SOME BOOK's LINKS
 - Pytorch : https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
+
+## Useful Github Project links 
+- ML Project Repos : https://github.com/Kulbear?tab=repositories
+
