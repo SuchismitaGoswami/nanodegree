@@ -31,6 +31,7 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 - Perceptron Algorithm :https://www.youtube.com/watch?v=jbluHIgBmBo&feature=youtu.be
 - Dropout Algorithm : https://www.youtube.com/watch?v=ARq74QuavAo , https://www.youtube.com/watch?v=XmLYl17DbbA [***************]
 - Softmax VS Sigmoid : https://medium.com/aidevnepal/for-sigmoid-funcion-f7a5da78fec2
+- Optimization Algorithm: https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f
 ## SOME BOOK's LINKS
 - Pytorch : https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
 
