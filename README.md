@@ -35,11 +35,13 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 - First Research paper on Dropout: https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 - CNN intro : https://www.youtube.com/watch?v=YRhxdVk_sIs
 - Max Pooling : https://www.youtube.com/watch?v=ZjM_XQa5s6s
+- CNN Architecture https://www.youtube.com/watch?v=VKoLGnq15RM
 ## SOME BOOK's LINKS
 - Pytorch : https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
 
 ## Useful Github Project links 
 - ML Project Repos : https://github.com/Kulbear?tab=repositories
+
 
 
 
