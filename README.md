@@ -35,7 +35,10 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 - First Research paper on Dropout: https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 - CNN intro : https://www.youtube.com/watch?v=YRhxdVk_sIs
 - Max Pooling : https://www.youtube.com/watch?v=ZjM_XQa5s6s
-- CNN Architecture https://www.youtube.com/watch?v=VKoLGnq15RM
+- CNN Architecture 
+  - https://www.youtube.com/watch?v=VKoLGnq15RM
+  - https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
+  - https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d#81e0
 ## SOME BOOK's LINKS
 - Pytorch : https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
 
