@@ -40,10 +40,15 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
   - https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
   - https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d#81e0
 - Stacked LSTM: https://machinelearningmastery.com/stacked-long-short-term-memory-networks/  
+- LSTM With animation: 
+    - https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45
+    - https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 - MatplotLib : 
     - https://www.youtube.com/watch?v=qErBw-R2Ybk
     - https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py
     - https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
+    
+    
 
 ## SOME BOOK's LINKS
 - Pytorch : https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
