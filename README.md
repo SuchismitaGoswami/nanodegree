@@ -27,6 +27,7 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 - Machine Learning Resource:  https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal
 - Neural Network: https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw
 - Data Science : https://towardsdatascience.com/
+- Activation Function : http://primo.ai/index.php?title=Activation_Functions
 - Logistic Gradient Descent : https://www.youtube.com/watch?v=z_xiwjEdAC4
 - Perceptron Algorithm :https://www.youtube.com/watch?v=jbluHIgBmBo&feature=youtu.be
 - Dropout Algorithm : https://www.youtube.com/watch?v=ARq74QuavAo , https://www.youtube.com/watch?v=XmLYl17DbbA [***************]
@@ -47,6 +48,7 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
     - https://www.youtube.com/watch?v=qErBw-R2Ybk
     - https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py
     - https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
+    
     
     
 
