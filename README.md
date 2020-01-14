@@ -52,6 +52,10 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
     
     
     
+ ## Interesting Medium articles   
+ - Deep learning for specific information extraction from unstructured texts : https://towardsdatascience.com/deep-learning-for-specific-information-extraction-from-unstructured-texts-12c5b9dceada   
+    
+    
 
 ## SOME BOOK's LINKS
 - Pytorch : https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
