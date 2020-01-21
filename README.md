@@ -49,6 +49,7 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
     - https://www.youtube.com/watch?v=qErBw-R2Ybk
     - https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py
     - https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
+- Binray Cross Entropy :https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a    
     
     
     
