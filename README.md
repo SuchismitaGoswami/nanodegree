@@ -36,6 +36,7 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 - Optimization Algorithm: https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f
 - First Research paper on Dropout: https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 - CNN intro : https://www.youtube.com/watch?v=YRhxdVk_sIs
+- CNN by Andrew Ng https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
 - Max Pooling : https://www.youtube.com/watch?v=ZjM_XQa5s6s
 - CNN Architecture 
   - https://www.youtube.com/watch?v=VKoLGnq15RM
@@ -49,7 +50,8 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
     - https://www.youtube.com/watch?v=qErBw-R2Ybk
     - https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py
     - https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
-- Binray Cross Entropy :https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a    
+- Binray Cross Entropy :https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a
+    
     
     
     
