@@ -37,6 +37,7 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 - First Research paper on Dropout: https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
 - CNN intro : https://www.youtube.com/watch?v=YRhxdVk_sIs
 - CNN by Andrew Ng https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF
+- CNN intro : https://www.youtube.com/watch?v=FmpDIaiMIeA
 - Max Pooling : https://www.youtube.com/watch?v=ZjM_XQa5s6s
 - CNN Architecture 
   - https://www.youtube.com/watch?v=VKoLGnq15RM
