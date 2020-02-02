@@ -44,6 +44,7 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
   - https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
   - https://towardsdatascience.com/illustrated-10-cnn-architectures-95d78ace614d#81e0
 - Stacked LSTM: https://machinelearningmastery.com/stacked-long-short-term-memory-networks/  
+- Basics of RNN - https://www.youtube.com/watch?v=ogZi5oIo4fI&t=1505s
 - LSTM With animation: 
     - https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45
     - https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
