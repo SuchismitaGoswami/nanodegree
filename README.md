@@ -68,6 +68,10 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 ## Useful Github Project links 
 - ML Project Repos : https://github.com/Kulbear?tab=repositories
 
+## Books to Read 
+- Grokking Deep Learning by Andrew Trask. Use our exclusive discount code traskud17 for 40% off. This provides a very gentle introduction to Deep Learning and covers the intuition more than the theory.
+- Neural Networks And Deep Learning by Michael Nielsen. This book is more rigorous than Grokking Deep Learning and includes a lot of fun, interactive visualizations to play with.
+- The Deep Learning Textbook from Ian Goodfellow, Yoshua Bengio, and Aaron Courville. This online book contains a lot of material and is the most rigorous of the three books suggested.
 
 
 
