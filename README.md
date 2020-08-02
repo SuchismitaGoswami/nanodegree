@@ -87,3 +87,6 @@ Scientific American: https://www.scientificamerican.com/article/deep-learning-ne
 ## Papers:
 https://www.scientificamerican.com/article/deep-learning-networks-rival-human-vision1/
 
+
+## Youtube Videos:
+[AI, Deep Learning, and Machine Learning: A Primer](https://www.youtube.com/watch?v=ht6fLrar91U&feature=youtube)
