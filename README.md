@@ -86,6 +86,7 @@ Scientific American: https://www.scientificamerican.com/article/deep-learning-ne
 
 ## Papers:
 https://www.scientificamerican.com/article/deep-learning-networks-rival-human-vision1/
+ELMAN Network https://doi.org/10.1207/s15516709cog1402_1
 
 
 ## Youtube Videos:
