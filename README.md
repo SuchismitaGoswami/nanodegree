@@ -53,6 +53,10 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
     - https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py
     - https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
 - Binray Cross Entropy :https://towardsdatascience.com/understanding-binary-cross-entropy-log-loss-a-visual-explanation-a3ac6025181a
+- LSTM Reads
+  - http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+  - http://blog.echen.me/2017/05/30/exploring-lstms/
+  - https://www.youtube.com/watch?v=iX5V1WpxxkY
     
     
     
@@ -76,11 +80,11 @@ Watch this repo to know set of topics you need to cover before jumping to learn 
 
 ### Interesting Read
 
-Fortune Magazine : http://fortune.com/2017/01/26/stanford-ai-skin-cancer/
-Bloomberg: https://www.bloomberg.com/news/articles/2017-06-29/diagnosing-skin-cancer-with-google-images
-BBC: http://www.bbc.com/news/health-38717928
-Wall Street Journal : https://www.wsj.com/articles/computers-turn-medical-sleuths-and-identify-skin-cancer-1486740634?emailToken=JRrzcPt+aXiegNA9bcw301gwc7UFEfTMWk7NKjXPN0TNv3XR5Pmlyrgph8DyqGWjAEd26tYY7mAuACbSgWwvV8aXkLNl1A74KycC8smailE=
-Forbes : https://www.forbes.com/sites/forbestechcouncil/2017/09/27/what-can-computer-vision-do-in-the-palm-of-your-hand/#4d2c686847a7
+- Fortune Magazine : http://fortune.com/2017/01/26/stanford-ai-skin-cancer/
+- Bloomberg: https://www.bloomberg.com/news/articles/2017-06-29/diagnosing-skin-cancer-with-google-images
+- BBC: http://www.bbc.com/news/health-38717928
+- Wall Street Journal : https://www.wsj.com/articles/computers-turn-medical-sleuths-and-identify-skin-cancer-1486740634?emailToken=JRrzcPt+aXiegNA9bcw301gwc7UFEfTMWk7NKjXPN0TNv3XR5Pmlyrgph8DyqGWjAEd26tYY7mAuACbSgWwvV8aXkLNl1A74KycC8smailE=
+- Forbes : https://www.forbes.com/sites/forbestechcouncil/2017/09/27/what-can-computer-vision-do-in-the-palm-of-your-hand/#4d2c686847a7
 Scientific American: https://www.scientificamerican.com/article/deep-learning-networks-rival-human-vision1/
 
 
